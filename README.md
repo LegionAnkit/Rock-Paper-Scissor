@@ -14,3 +14,8 @@ This version is implemented with loops only and has a best of three feature as w
 - A system with python interpreter(preferably 3.6 or above).
 - Text editor(Preferably Sublime) to view code and Terminal to run code.
 
+## Known Issue
+None as of now but feel free to open an issue if you have any even if it feels naive, as i would be happy to answer them 😃.
+
+## License 
+MIT License 
